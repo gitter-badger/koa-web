@@ -24,7 +24,7 @@ The best scaffolding of building `Koa2` restful API with `TypeScript`.
 
 - Preview: http://localhost:3000/doc.html
 
-- Getting Started: [![Edit koa-web](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/zeffon-koa-web-vjojoe)
+- Getting Started: [![Edit koa-web](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/zeffon-koa-web-vjojoe) [![Join the chat at https://gitter.im/zeffon/koa-web](https://badges.gitter.im/zeffon/koa-web.svg)](https://gitter.im/zeffon/koa-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 ## Features
